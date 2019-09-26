@@ -276,4 +276,4 @@ async def clear(ctx, amount=5):
    # print(f'{member} has left the server.')
 
 
-client.run('NjI1NDQyNDA4NzU0MzE1MjY1.XYtx_g.riiBXYKnx3e2EQmDZYpEDEqlFR4')
+client.run()
